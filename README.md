@@ -1,1 +1,2 @@
 # Sentiment-Analyzer
+Upon running the code, it will ask to input a string of text. Input whatever you like, and the analyzer will create a "sentiment score" for your text, which is basically the attitude of your words. It will output the score as well as a general category, like "Very Positive Text" or "Fairly Negative Text", for example. Then it will ask if you want to go again. If yes, just enter "y". If not, enter "n" and the code will stop. 
